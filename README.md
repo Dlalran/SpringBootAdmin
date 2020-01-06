@@ -1,5 +1,3 @@
-[toc]
-
 # Spring Boot Admin
 
 ​		第三方文档: [Spring Boot Admin](https://www.cnblogs.com/forezp/p/10242004.html)
